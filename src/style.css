@@ -9,7 +9,7 @@ body {
     justify-content: space-evenly;
     /* border: 1px solid blue; */
     background-color: rgb(248,250,252);
-    background-image:url(./Image/Background\ Pattern.png);
+    background-image:url(./Image/BackgroundPattern.png);
     background-repeat: no-repeat;
     background-position: center;
 }
